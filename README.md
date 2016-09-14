@@ -1,7 +1,8 @@
-7uyhb # Project Name
+### Rally - Building A Distributed Network With Your Browser
 
-> Rally - Building A Distributed Network With Your Browser
+Video Demo 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LteH3ayeorw/0.jpg)](https://www.youtube.com/watch?v=LteH3ayeorw)
 
 ## Table of Contents
 
